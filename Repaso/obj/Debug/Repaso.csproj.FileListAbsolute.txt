@@ -1,0 +1,8 @@
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Repaso\Repaso\obj\Debug\Repaso.csproj.AssemblyReference.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Repaso\Repaso\obj\Debug\Repaso.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Repaso\Repaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Repaso\Repaso\bin\Debug\Repaso.exe.config
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Repaso\Repaso\bin\Debug\Repaso.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Repaso\Repaso\bin\Debug\Repaso.pdb
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Repaso\Repaso\obj\Debug\Repaso.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Repaso\Repaso\obj\Debug\Repaso.pdb
